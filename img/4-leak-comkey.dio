@@ -1,0 +1,43 @@
+<mxfile host="7182cc39-0dd6-4627-812b-c87fb47881df" modified="2020-08-11T23:04:42.382Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="xVYBqz3RjKl3UMleyX3d" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="501" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;アリス（送信者）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="280" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;ボブ（受信者）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="280" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;イブ（盗聴者）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="292.5" y="422" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=11.666666666666668;endSize=7.0583333333333345;fillColor=#003366;strokeColor=none;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="210" y="314.71" as="sourcePoint"/>
+                        <mxPoint x="410" y="315.21" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=10;endSize=6.85;fillColor=#0066CC;strokeColor=none;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="307" y="353.5" as="sourcePoint"/>
+                        <mxPoint x="307.42" y="413.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#003366&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=0;gradientColor=none;fillColor=#FFFFFF;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="290" width="40" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;font color=&quot;#003366&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;共通鍵&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="272.5" y="246" width="70" height="34" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#004C99;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="1">
+                    <mxGeometry x="295" y="288.5" width="25" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;イブは共通鍵を&lt;br&gt;盗聴できる&lt;br&gt;&lt;br&gt;→その後の暗号文を解読できる&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="390" width="130" height="90" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
