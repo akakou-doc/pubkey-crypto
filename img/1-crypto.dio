@@ -1,0 +1,40 @@
+<mxfile host="045831d1-c8e7-4546-9311-64b602f356f6" modified="2020-08-11T12:26:58.889Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="wYQ17AIN9qJlnf4xYaf-" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="501" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;アリス（送信者）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="280" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;ボブ（受信者）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="280" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;イブ（盗聴者）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="420" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=11.666666666666668;endSize=7.0583333333333345;fillColor=#003366;strokeColor=none;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="210" y="314.71" as="sourcePoint"/>
+                        <mxPoint x="410" y="315.21" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=10;endSize=6.85;fillColor=#003366;strokeColor=none;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="410" as="sourcePoint"/>
+                        <mxPoint x="309.58" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#003366&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;暗号&lt;/font&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;gradientColor=none;fillColor=#FFFFFF;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="290" width="40" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 15px&quot;&gt;イブは盗聴したいが、&lt;br&gt;暗号が解けないので、&lt;br&gt;&lt;br&gt;平文を盗むことは&lt;br&gt;できない&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="390" width="170" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;font color=&quot;#003366&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;平分&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;gradientColor=none;fillColor=#FFFFFF;strokeColor=#003366;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="305" width="30" height="35" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
