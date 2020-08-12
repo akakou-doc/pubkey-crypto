@@ -101,3 +101,5 @@ _class: lead
 - 鍵の数はユーザ数の数で良い。
   - $n$ 人が相互に暗号通信するのに必要な秘密鍵数： $n$
 - 配送する公開鍵は、漏洩しても問題がない。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![h:320px](./img/6-share-pubkey.svg)&nbsp;
