@@ -102,4 +102,4 @@ _class: lead
   - $n$ 人が相互に暗号通信するのに必要な秘密鍵数： $n$
 - 配送する公開鍵は、漏洩しても問題がない。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![h:320px](./img/6-share-pubkey.svg)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![h:320px](./img/6-share-pubkey.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![h:300px](./img/7-leak-pubkey.svg)
