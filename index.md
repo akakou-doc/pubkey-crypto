@@ -83,4 +83,4 @@ _class: lead
   - $n$ 人が相互に暗号通信するのに必要な共通鍵数： $n(n-1)/2$
 - 共通鍵を安全に配送することは難しい。
 
-![h:310px](./img/3-share-comkey.svg) ![h:310px right:60%](./img/4-leak-comkey.svg)
+![h:310px](./img/3-share-comkey.svg) 　　　 ![h:310px](./img/4-leak-comkey.svg)
