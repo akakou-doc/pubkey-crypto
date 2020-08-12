@@ -10,6 +10,7 @@ img[alt~="center"] {
   display: block;
   margin: 0 auto;
 }
+
 </style>
 
 <!--
@@ -63,7 +64,7 @@ _class: lead
 - 暗号化と復号で同じ鍵を利用する暗号方式。
 - 送信者と受信者が事前に共通鍵（秘密鍵）を共有する必要がある。
 
-![w:950px center](./img/2-comkey.svg)
+![w:950px right:60%](./img/2-comkey.svg)
 
 ---
 
@@ -82,4 +83,4 @@ _class: lead
   - $n$ 人が相互に暗号通信するのに必要な共通鍵数： $n(n-1)/2$
 - 共通鍵を安全に配送することは難しい。
 
-![w:430px center](./img/4-leak-comkey.svg)
+![h:310px](./img/3-share-comkey.svg) ![h:310px right:60%](./img/4-leak-comkey.svg)
