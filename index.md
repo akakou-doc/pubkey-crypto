@@ -104,3 +104,31 @@ _class: lead
 - 配送する公開鍵は、漏洩しても問題がない
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![h:320px](./img/6-share-pubkey.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![h:300px](./img/7-leak-pubkey.svg)
+
+---
+
+<!--
+_class: lead
+
+-->
+
+## 玄人編
+
+公開鍵暗号方式ってどうやって実現するんだろう？
+
+---
+
+# 基礎知識 1/2
+
+$a \mod b$ ： $a$を$b$で割ったときの余り
+
+$$10 \mod 6 = 4$$
+$$14 \mod 3 = 2$$
+
+```py
+print(10 % 6)
+# => 4
+
+print(14 % 3)
+#=> 2
+```
