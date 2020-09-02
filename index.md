@@ -36,7 +36,7 @@ _class: invert
 5. 公開鍵暗号方式のメリット
 6. $\bmod$の計算, 累乗の計算
 7. DL 問題, DH 問題
-8. Diffie Helman 鍵共有
+8. Diffie-Helman 鍵共有
 
 ---
 
@@ -137,7 +137,7 @@ _class: lead
 
 ## 仕組み編
 
-Diffie Helman 鍵共有の仕組み
+Diffie-Helman 鍵共有の仕組み
 
 ---
 
@@ -221,7 +221,7 @@ $$
 
 ---
 
-# Diffie Helman 鍵共有
+# Diffie-Helman 鍵共有
 
 DH 問題を利用して、二人で秘密の値を共有（生成）する
 **→ この鍵を共通鍵暗号方式の共通鍵として利用する**
