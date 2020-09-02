@@ -118,12 +118,12 @@ _class: lead
 
 ---
 
-# 基礎知識 1/2
+# $\bmod$の計算 1/2
 
-$a \mod b$ ： $a$を$b$で割ったときの余り
+$a \bmod b$ ： $a$を$b$で割ったときの余り
 
-$$10 \mod 6 = 4$$
-$$14 \mod 3 = 2$$
+$$10 \bmod 6 = 4$$
+$$14 \bmod 3 = 2$$
 
 ```py
 print(10 % 6)
@@ -132,3 +132,23 @@ print(10 % 6)
 print(14 % 3)
 #=> 2
 ```
+
+---
+
+# $\bmod$の計算 2/2
+
+$$
+\begin{aligned}
+3 & \times 4 \bmod 5\\
+  &= 12 \bmod 5 \\
+  &= 2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+2^3 & \bmod 5\\
+  &= 8 \bmod 5 \\
+  &= 3
+\end{aligned}
+$$
