@@ -178,3 +178,20 @@ $y = a ^ x \bmod n$ において
 
 ※簡単 → 高速に解くアルゴリズムがある
 ※難しい → 高速に解くアルゴリズムが見つかっていない
+
+---
+
+# DH 問題
+
+簡単 1： $g$, $n$, $x$, $K_B$から $K_{AB}$を 求める
+簡単 2： $g$, $n$, $y$, $K_A$から $K_{AB}$を 求める
+難しい： $g$, $n$, $K_A$, $K_B$から $K_{AB}$を 求める
+
+$$
+\begin{aligned}
+K_A = & g^x \bmod n ,\ \  K_B= g^y \bmod n \\
+K_{AB} &= (K_A)^ y \bmod n \\
+&= (K_B)^ x \bmod n \\
+&= g^{xy} \bmod n
+\end{aligned}
+$$
