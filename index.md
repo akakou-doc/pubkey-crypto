@@ -33,9 +33,10 @@ _class: invert
 2. 共通鍵暗号方式
 3. 共通鍵暗号方式の課題
 4. 公開鍵暗号方式
-5. $\bmod$の計算, 累乗の計算
-6. DL 問題, DH 問題
-7. Diffie Helman 鍵共有
+5. 公開鍵暗号方式のメリット
+6. $\bmod$の計算, 累乗の計算
+7. DL 問題, DH 問題
+8. Diffie Helman 鍵共有
 
 ---
 
@@ -225,4 +226,19 @@ $$
 DH 問題を利用して、二人で秘密の値を共有（生成）する
 **→ この鍵を共通鍵暗号方式の共通鍵として利用する**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:710px](./img/8-dh-key-exchange.svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:640px](./img/8-dh-key-exchange.svg)
+
+---
+
+# まとめ
+
+#### 公開鍵暗号方式とは
+
+公開鍵という漏洩しても構わない鍵を利用する暗号方式
+
+- 秘密鍵の数が少なくすむ
+- 配送する公開鍵は、漏洩しても問題がない
+
+#### Diffie-Helman 鍵共有
+
+DH 問題を利用して二人で同じ値を共有する方式
