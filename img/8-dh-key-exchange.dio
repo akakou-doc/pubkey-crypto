@@ -1,6 +1,6 @@
-<mxfile host="0511ec95-196c-44ae-92b5-dfa5c168c3ee" modified="2020-09-02T10:53:50.535Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="d6UKz0Gs01Vh6udcUI-l" version="13.1.3">
+<mxfile host="0511ec95-196c-44ae-92b5-dfa5c168c3ee" modified="2020-09-02T12:39:43.650Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="w8ZDkQeyl2R5410BHD_X" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
-        <mxGraphModel dx="445" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="369" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,13 +10,13 @@
                 <mxCell id="3" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 13px&quot;&gt;ボブ&lt;br&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="430" y="280" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=7.359999999999999;endSize=7.208;fillColor=#003366;strokeColor=none;startSize=6;width=5.6;" parent="1" edge="1">
+                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=5.8;endSize=6;fillColor=#003366;strokeColor=none;startSize=6;width=5.6;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="390" y="280" as="sourcePoint"/>
                         <mxPoint x="230" y="340" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="72" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=7.68;endSize=7.756;fillColor=#003366;strokeColor=none;startSize=6;width=4.8;" edge="1" parent="1">
+                <mxCell id="72" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=6.733333333333333;endSize=6.6066666666666665;fillColor=#003366;strokeColor=none;startSize=6;width=4.8;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="240" y="280" as="sourcePoint"/>
                         <mxPoint x="400" y="340" as="targetPoint"/>
@@ -35,10 +35,10 @@
                     <mxGeometry x="315" y="235" width="90" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="80" value="&lt;font color=&quot;#003366&quot;&gt;③共有された秘密&lt;br&gt;&lt;b&gt;K&lt;sub&gt;AB&lt;/sub&gt;&amp;nbsp;= (K&lt;sub&gt;B&lt;/sub&gt;)&lt;sup&gt;x&lt;/sup&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;/span&gt;mod n&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= g&lt;sup&gt;xy&lt;/sup&gt;&amp;nbsp;mod n&lt;/b&gt;&lt;/font&gt;&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-                    <mxGeometry x="145" y="359" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="145" y="369" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="82" value="&lt;font color=&quot;#003366&quot;&gt;③共有された秘密&lt;br&gt;&lt;b&gt;K&lt;sub&gt;AB&lt;/sub&gt; = (K&lt;sub&gt;A&lt;/sub&gt;)&lt;sup&gt;y&lt;/sup&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;/span&gt;mod n&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= g&lt;sup&gt;xy&lt;/sup&gt;&amp;nbsp;mod n&lt;/b&gt;&lt;/font&gt;&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-                    <mxGeometry x="355" y="359" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="355" y="369" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

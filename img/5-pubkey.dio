@@ -1,6 +1,6 @@
-<mxfile host="dc7e7c0b-3b9a-4e4e-8968-e286745d7676" modified="2020-08-12T06:03:45.809Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="LhepzZMrC3s-taqLdkgH" version="13.1.3">
+<mxfile host="dc7e7c0b-3b9a-4e4e-8968-e286745d7676" modified="2020-09-02T12:40:53.669Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="ALVv7ubCnyWmI9TA88vT" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
-        <mxGraphModel dx="1826" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1814" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,10 +25,10 @@
                 <mxCell id="22" value="&lt;font color=&quot;#003366&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;gradientColor=none;fillColor=#FFFFFF;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="140" y="62.5" width="40" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" parent="1" vertex="1">
+                <mxCell id="45" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" parent="1" vertex="1">
                     <mxGeometry x="85" y="23" width="20" height="43" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" parent="1" vertex="1">
+                <mxCell id="46" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" parent="1" vertex="1">
                     <mxGeometry x="455" y="19.5" width="20" height="43" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="&lt;font color=&quot;#003366&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;gradientColor=none;fillColor=#FFFFFF;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
                 <mxCell id="83" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#003366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" parent="1" vertex="1">
                     <mxGeometry x="673" y="193" width="14" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="84" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" parent="1" vertex="1">
+                <mxCell id="84" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" parent="1" vertex="1">
                     <mxGeometry x="667" y="-19" width="20" height="43" as="geometry"/>
                 </mxCell>
                 <mxCell id="85" value="&lt;font color=&quot;#003366&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;公開鍵&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
@@ -88,31 +88,31 @@
                 <mxCell id="87" value="&lt;font color=&quot;#003366&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;暗号文&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="710" y="179" width="70" height="34" as="geometry"/>
                 </mxCell>
-                <mxCell id="88" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=11.666666666666668;endSize=7.0583333333333345;fillColor=#003366;strokeColor=none;entryX=0.52;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+                <mxCell id="88" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=11.666666666666668;endSize=7.0583333333333345;fillColor=#003366;strokeColor=none;entryX=0.52;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="420" y="-37" as="sourcePoint"/>
                         <mxPoint x="100" y="-36.950000000000045" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="89" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" vertex="1" parent="1">
+                <mxCell id="89" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" parent="1" vertex="1">
                     <mxGeometry x="427" y="-54.5" width="20" height="43" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#003366&quot;&gt;&lt;b&gt;③暗号化&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                <mxCell id="94" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#003366&quot;&gt;&lt;b&gt;③暗号化&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="15" y="-10" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="96" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" vertex="1" parent="1">
+                <mxCell id="96" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" parent="1" vertex="1">
                     <mxGeometry x="510" y="-48.5" width="20" height="43" as="geometry"/>
                 </mxCell>
-                <mxCell id="97" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" vertex="1" parent="1">
+                <mxCell id="97" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" parent="1" vertex="1">
                     <mxGeometry x="540" y="-48.5" width="20" height="43" as="geometry"/>
                 </mxCell>
-                <mxCell id="99" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" vertex="1" parent="1">
+                <mxCell id="99" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" parent="1" vertex="1">
                     <mxGeometry x="667" y="38.5" width="20" height="43" as="geometry"/>
                 </mxCell>
-                <mxCell id="100" value="&lt;font color=&quot;#003366&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;秘密鍵&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                <mxCell id="100" value="&lt;font color=&quot;#003366&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;秘密鍵&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="710" y="43" width="70" height="34" as="geometry"/>
                 </mxCell>
-                <mxCell id="103" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#003366&quot;&gt;&lt;b&gt;④送信&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                <mxCell id="103" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#003366&quot;&gt;&lt;b&gt;④送信&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="200" y="38.5" width="160" height="20" as="geometry"/>
                 </mxCell>
             </root>
