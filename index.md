@@ -195,3 +195,12 @@ K_{AB} &= (K_A)^ y \bmod n \\
 &= g^{xy} \bmod n
 \end{aligned}
 $$
+
+---
+
+# Diffie Helman 鍵共有
+
+DH 問題を利用して、二人で秘密の値を共有（生成）する
+**→ この鍵を共通鍵暗号方式の共通鍵として利用する**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:710px](./img/8-dh-key-exchange.svg)
