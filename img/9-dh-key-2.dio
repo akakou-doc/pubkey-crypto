@@ -1,0 +1,115 @@
+<mxfile host="353fd80a-d078-489f-ba74-cb672e4460f3" modified="2020-09-02T12:36:09.822Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.48.0-insider Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="BYdIIlUccaeoBavGFH3w" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="645" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font color=&quot;#003366&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;アリス&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="280" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font color=&quot;#003366&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;ボブ&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#003366;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="280" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=7.359999999999999;endSize=7.208;fillColor=#003366;strokeColor=none;startSize=6;width=5.6;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="280" as="sourcePoint"/>
+                        <mxPoint x="230" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="72" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=7.68;endSize=7.756;fillColor=#003366;strokeColor=none;startSize=6;width=4.8;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="280" as="sourcePoint"/>
+                        <mxPoint x="400" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="&lt;span style=&quot;color: rgb(0 , 51 , 102)&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;①鍵ペア生成&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#003366&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="200" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;font color=&quot;#003366&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;①鍵ペア生成&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="200" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 17px&quot;&gt;②公開鍵の送信&lt;/font&gt;&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="237.5" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" vertex="1" parent="1">
+                    <mxGeometry x="145" y="230" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D5E8D4;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="230" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="230" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D4E1F5;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="230" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#FFCE9F;" vertex="1" parent="1">
+                    <mxGeometry x="165" y="480" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#FFCE9F;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="380" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="260" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="320" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="&lt;font color=&quot;#003366&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;公開鍵&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="320" width="70" height="34" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="&lt;font color=&quot;#003366&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;秘密鍵&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="264.5" width="70" height="34" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D4E1F5;" vertex="1" parent="1">
+                    <mxGeometry x="575" y="260" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D5E8D4;" vertex="1" parent="1">
+                    <mxGeometry x="575" y="320" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D5E8D4;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="264.5" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="264.5" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="&lt;font color=&quot;#003366&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;共有された&lt;br&gt;秘密&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="575" y="380" width="110" height="34" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D5E8D4;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="373" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7EA6E0;" vertex="1" parent="1">
+                    <mxGeometry x="145" y="373" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#D4E1F5;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="371" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#67AB9F;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="371" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#FFCE9F;" vertex="1" parent="1">
+                    <mxGeometry x="435" y="480" width="20" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#003366;strokeColor=none;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="174.5" y="424" as="sourcePoint"/>
+                        <mxPoint x="174.5" y="474" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#003366;strokeColor=none;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="444.5" y="424" as="sourcePoint"/>
+                        <mxPoint x="444.5" y="474" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="&lt;font color=&quot;#003366&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;③秘密の生成&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="186" y="440" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="&lt;font color=&quot;#003366&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;③秘密の生成&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="440" width="120" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
