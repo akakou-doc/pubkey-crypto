@@ -152,3 +152,17 @@ $$
   &= 3
 \end{aligned}
 $$
+
+---
+
+# 累乗の計算
+
+累乗の累乗
+
+$$(a ^ x)^y \bmod n = a ^ {xy} \bmod n$$
+$$(4^3)^2 \bmod n = 4 ^ {3 \times 2} \bmod n$$
+
+累乗同士の乗算
+
+$$a^xa^y \bmod n = a ^ {x + y} \bmod n$$
+$$3^4 \times 3^2 \bmod n = 3 ^ {4 + 2} \bmod n$$
